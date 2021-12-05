@@ -1,13 +1,13 @@
 ## intent:greet
--Hello my dear friend!
--Hello how are you
--Hello Mate!
--Hello my friend
--Good Morning!
--hi friend
--Hey friend
--wassup
--Good Evening!
+- Hello my dear friend!
+- Hello how are you
+- Hello Mate!
+- Hello my friend
+- Good Morning!
+- hi friend
+- Hey friend
+- wassup
+- Good Evening!
 
 ## intent:casual_talk
 -How you doin

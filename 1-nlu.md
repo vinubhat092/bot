@@ -1,4 +1,15 @@
 ##intent:greet
+-Hello my dear friend!
+-Hello how are you
+-Hello Mate!
+-Hello my friend
+-Good Morning!
+-hi friend
+-Hey friend
+-wassup
+-Good Evening!
+
+##intent:casual_talk
 -How you doin
 -What is up
 -How have you been
@@ -11,21 +22,15 @@
 -Hey whats going on
 -How was your day
 -Hey how are you
--Hello my dear friend!
--Hello how are you
--Hello Mate!
--Hello my friend
 -how are you recently !
--Good Morning!
 -How is your day going?
--hi friend
--Hey friend
 -how are things going
 -How are you today?
--wassup
 -How's your day going
--Good Evening!
 -How is the josh
+
+
+
 
 ##intent:goodbye
 -bye

@@ -49,4 +49,9 @@ responses:
   utter_areas_domain:
   - text: "We are currently working under the areas of sales and marketting of agriculture and healthcare sectors"
   
+  utter_size:
+  - text: "our company presently deals only medium and large-scaled business."
+  
+  
+  
   

@@ -63,7 +63,7 @@
   - utter_automate_customer_service
   
  ## query path 2
- * bot_query
+* bot_query
   - utter_contact
   - utter_confirm
   - utter_reject

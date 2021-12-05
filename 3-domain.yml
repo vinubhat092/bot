@@ -103,8 +103,6 @@ responses:
   utter_healthcare:
   - text: "Yes! we have our service in this field! How can I help you?"
 
-
-  
   utter_ecommerce:
   - text : "No! sorry! currently we are not dealing with this field"
   utter_IT:
@@ -119,11 +117,8 @@ responses:
   utter_startup:
   - text : "No! sorry! currently we dont have services for startup"
 
-  
-  
   utter_banking:
   - text : "No! sorry! currently we dont have services for banking-sectors"
-
 
   utter_Lead_generation:
   - text : "No! sorry! currently we dont have services for this field"
@@ -134,15 +129,12 @@ responses:
   utter_help_user:
   - text: "I can share the information about the sales and marketting of the Saarthi.AI.I am here to give customer support and help for user onboarding."
 
-  
   utter_food_delivery:
   - text: "Yes! How can I help you regarding this."
   
   utter_user_onboarding:
   - text: "Yes! here I am to assist you"
 
-  
-  
   utter_help:
   - text: "Yes! How can I help you"
 
@@ -155,14 +147,11 @@ responses:
   utter_Lead_generation:
   - text: "Sorry! we are currently not dealing with Lead-generation"
 
-  
   utter_lead_generation:
   - text: "Sorry! we are currently not dealing with lead-generation"
 
-  
   utter_small_shop_owner:
   - text: "Sorry! we are currently not dealing with small-shop-owners"
-
 
   utter_welcome:
   - text:"you're welcome!!"

@@ -70,6 +70,67 @@ responses:
   utter_motto:
   - text: "our motto is expanding our sales in agriculture field which is very much essential to fullfill the world's food demand"
   
+  utter_agriculture:
+  - text: "Yes! we have our service in this field! How can I help you?"
+  
+  utter_medium_scale:
+  - text: "Yes! we have our service in this area! How can I help you?"
+  
+  utter_sales_marketting:
+  - text: "Yes! we have our service in this field! How can I help you?"
+
+  utter_Saarthi_mid_company:
+  - text: "Yes! we have our service in this area! How can I help you?"
+
+  utter_high_scaled_business:
+  - text: "Yes! we have our service in this area! How can I help you?"
+
+  utter_scales:
+  - text: "Yes! we have our service based on the business-scale of a company!"
+
+  customer_support:
+  - text: "Yes!How can I help you?"
+
+  utter_user_onboarding:
+  - text: "Yes!How can I help you?"
+
+  utter_hospitality:
+  - text: "Yes! we prvide that here!"
+
+  utter_automate_customer_service:
+  - text: "Yes! we have our service in this field! How can I help you?"
+  
+  utter_healthcare:
+  - text: "Yes! we have our service in this field! How can I help you?"
+
+
+  
+  utter_ecommerce:
+  - text : "No! sorry! currently we are not dealing with this field"
+  utter_IT:
+  - text : "No! sorry! currently we are not dealing with this field"
+
+  utter_telecommunication_domain:
+  - text : "No! sorry! currently we are not dealing with this field"
+
+  utter_small_size:
+  - text : "No! sorry! currently we are not dealing in this domain"
+
+  utter_startup:
+  - text : "No! sorry! currently we dont have services for startup"
+
+  
+  
+  utter_banking:
+  - text : "No! sorry! currently we dont have services for banking-sectors"
+
+
+  utter_Lead_generation:
+  - text : "No! sorry! currently we dont have services for this field"
+
+  utter_small_scale:
+  - text : "No! sorry! currently we are not dealing with small scale business"
+
   
   
   

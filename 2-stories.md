@@ -48,7 +48,6 @@
   - utter_history
   - utter_cater
   - utter_motto
-  - utter_scale
 * affirm
   - utter_agriculture
   - utter_medium_scale

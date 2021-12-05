@@ -40,8 +40,6 @@
 ## query path 1
 * bot_query
   - utter_contact
-  - utter_confirm
-  - utter_reject
   - utter_area_domains
   - utter_size
   - utter_purpose

@@ -130,6 +130,43 @@ responses:
 
   utter_small_scale:
   - text : "No! sorry! currently we are not dealing with small scale business"
+  
+  utter_help_user:
+  - text: "I can share the information about the sales and marketting of the Saarthi.AI.I am here to give customer support and help for user onboarding."
+
+  
+  utter_food_delivery:
+  - text: "Yes! How can I help you regarding this."
+  
+  utter_user_onboarding:
+  - text: "Yes! here I am to assist you"
+
+  
+  
+  utter_help:
+  - text: "Yes! How can I help you"
+
+  utter_customer_support:
+  - text: "Yes! here I am to provide you the customer support"
+  
+  utter_small_scale_business:
+  - text: "Sorry! we are currently not dealing with any small-scale-business"
+  
+  utter_Lead_generation:
+  - text: "Sorry! we are currently not dealing with Lead-generation"
+
+  
+  utter_lead_generation:
+  - text: "Sorry! we are currently not dealing with lead-generation"
+
+  
+  utter_small_shop_owner:
+  - text: "Sorry! we are currently not dealing with small-shop-owners"
+
+
+  utter_welcome:
+  - text:"you're welcome!!"
+
 
   
   

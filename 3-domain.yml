@@ -52,6 +52,26 @@ responses:
   utter_size:
   - text: "our company presently deals only medium and large-scaled business."
   
+  utter_purpose:
+  - text: "I have made for customer support/query"
+  
+  utter_skills:
+  - text: "I dont have special skills! i can just answer your queries!"
+  
+  utter_email:
+  - text: "you can mail us by abc@gmail.com"
+  
+  utter_history:
+  - text: "I have worked with abc,mno,xyz companies till now"
+  
+  utter_cater:
+  - text: "we can cater to large scale business very well since we have experience working with xyz company and we will never let you down!"
+  
+  utter_motto:
+  - text: "our motto is expanding our sales in agriculture field which is very much essential to fullfill the world's food demand"
+  
+  
+  
   
   
   

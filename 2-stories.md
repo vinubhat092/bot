@@ -77,7 +77,7 @@
   - utter_assist
   - utter_motto
   - utter_scale
- * deny
+* deny
   - utter_ecommerce
   - utter_IT
   - utter_telecommunication_domain

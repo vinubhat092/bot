@@ -1,5 +1,6 @@
 intents:
   - greet
+  - casual_talk
   - goodbye
   - affirm
   - deny
@@ -14,5 +15,33 @@ responses:
   utter_greet:
   - text: "Hey! How are you?"
   
+  utter_cheer_up:
+  - text: "Here is something to cheer you up:"
+    image: "https://i.imgur.com/nGF1K8f.jpg"
+    
+  utter_did_that_help:
+  - text: "Did that help you?"
   
+  utter_happy:
+  - text: "Great, carry on!"
   
+  utter_googbye:
+  - text: "Bye"
+  
+  utter_imabot:
+  - text: "I am a bot, powered by Rasa."
+  
+  utter_capabilities:
+  - text: "I can share the information about the sales and marketting of the Saarthi.AI.I am here to give customer support and help for user onboarding."
+  
+  utter_help:
+  - text: "I can help you regarding the company's query"
+  
+  utter_superpowers:
+  - text: "I dont have any, sorry!"
+  
+  utter_other_things:
+  - text: "sorry! This what I can do currently."
+  
+  utter_contact:
+  = text: "you can contact us by dialing:8277408756"

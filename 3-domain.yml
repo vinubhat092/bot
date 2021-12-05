@@ -44,4 +44,9 @@ responses:
   - text: "sorry! This what I can do currently."
   
   utter_contact:
-  = text: "you can contact us by dialing:8277408756"
+  - text: "you can contact us by dialing:8277408756"
+  
+  utter_areas_domain:
+  - text: "We are currently working under the areas of sales and marketting of agriculture and healthcare sectors"
+  
+  

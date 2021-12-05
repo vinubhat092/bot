@@ -47,7 +47,6 @@
   - utter_email
   - utter_history
   - utter_cater
-  - utter_assist
   - utter_motto
   - utter_scale
 * affirm

@@ -1,4 +1,4 @@
-##intent:greet
+## intent:greet
 -Hello my dear friend!
 -Hello how are you
 -Hello Mate!
@@ -9,7 +9,7 @@
 -wassup
 -Good Evening!
 
-##intent:casual_talk
+## intent:casual_talk
 -How you doin
 -What is up
 -How have you been
@@ -32,7 +32,7 @@
 
 
 
-##intent:goodbye
+## intent:goodbye
 -bye
 -Talk to you later
 -take care
@@ -61,7 +61,7 @@
 -see you
 -Got to go
 
-##intent:affirm
+## intent:affirm
 -yep
 -yeh
 -exactly
@@ -109,7 +109,7 @@
 -no
 -no way
 
-##intent:mood_great
+## intent:mood_great
 -Awesome
 -Amazing
 -Cool!
@@ -128,10 +128,10 @@
 -Amazing!
 -no way
 
-##intent:mood_unhappy
+## intent:mood_unhappy
 -no one like you !
 
-##intent:bot_challenge
+## intent:bot_challenge
 -how can you solve my problem?
 -can you solve my problem?
 -tell me your capabilities
@@ -165,7 +165,7 @@
 -tell me about your capabilties
 -Please tell me how you can help me
 
-##intent:bot_query
+## intent:bot_query
 -Do you provide service in agriculture domain.
 -Do you offer your serices to medium sized enterprises?
 -Do you provide assistance in sales marketing?
@@ -222,14 +222,17 @@
 -Can i get in contact with the customer support 
 -Do you work in user onboarding?
 -Do you provide service in hospitality
--I want to automate my customer service, do you provide such services 
+-I want to automate my customer service, do you provide such services
+-please provide me a brief information about all your domains
+-could you help me assist in sales marketing?
 
-##intent:seek_help
+
+
+## intent:seek_help
 -I have a small food delivery business in my region, can you help me with that
 -could you help me assist in sales marketing?
 -Please let me know what can you do for me?
 -I have a small scale business need your help to grow it further
--please provide me a brief information about all your domains
 -How can you help me?
 -could you help me assist in user onboarding?
 -can you help me?
@@ -238,7 +241,7 @@
 -could you help me assist in lead generation?
 -I'm a small shop owner.. can you help me
 
-##intent:appriciation
+## intent:appriciation
 -appreciate it!
 -Thanks
 -well done

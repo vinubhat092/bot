@@ -57,6 +57,7 @@
   - utter_Saarthi_mid_company
   - utter_high_scaled_business
   - utter_scales
+  - utter_healthcare
   - customer_support
   - utter_user_onboarding
   - utter_hospitality
@@ -83,7 +84,6 @@
   - utter_telecommunication_domain
   - utter_small_size
   - utter_startup
-  - utter_healthcare
   - utter_banking
   - utter_Lead_generation
   - utter_small_scale

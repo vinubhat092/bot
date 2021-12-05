@@ -1,0 +1,18 @@
+intents:
+  - greet
+  - goodbye
+  - affirm
+  - deny
+  - mood_great
+  - mood_unhappy
+  - bot_challenge
+  - bot_query
+  - seek_help
+  - appriciation
+  
+responses:
+  utter_greet:
+  - text: "Hey! How are you?"
+  
+  
+  

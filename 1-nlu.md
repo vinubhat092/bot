@@ -86,7 +86,7 @@
 - I'm in
 - alrighty then
 
-##intent:deny
+## intent:deny
 - nop
 - nope
 - nay
